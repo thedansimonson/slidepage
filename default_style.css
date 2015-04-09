@@ -1,0 +1,45 @@
+
+body{font-family: serif;
+	font-size: 14pt;
+     text-align: justify;
+}
+
+h1{font-family: sans-serif;
+	font-size: 60pt;
+	color: #999999;}
+
+h2{font-family: sans-serif;
+	color: #666666;
+	text-align: right;
+	margin-right: 50px;}
+
+h2.shifted{text-align: left;}
+
+h3{font-family: sans-serif;
+	color: #666666;
+	text-align: left;
+	margin-right: 50px;}
+
+
+p{font-size: 14pt;
+	line-spacing: 2px;
+	font-weight: 10;}
+p.citation{margin-left: 50px; 
+            margin-right: 50px;}
+
+
+ul{font-size: 14pt;
+    list-style-position: inside;
+	line-spacing: 2px;
+	font-weight: 10;}
+
+img{width:36%;
+    margin: 0px 15px 15px 15px;}
+img.left{float: left;}
+img.right{float:right;}
+img.focus{width:80%;
+            display: block;
+            margin-left:auto;
+            margin-right:auto;}
+
+div.main{}
